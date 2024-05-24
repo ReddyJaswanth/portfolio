@@ -9,8 +9,8 @@ export default function Hero() {
       <div className="text-center">
         <div className="w-full flex justify-center items-center mt-10 mb-5">
           <div className="text-white text-center py-1.5 px-4 font-mono text-sm bg-gray-900 rounded-full md:py-2 md:px-6 md:text-xl">
-            Kumusta? <span className="inline-block animate-wave">👋</span>, I'm
-            Jan Liby
+            How Are You? <span className="inline-block animate-wave">👋</span>, I'm
+            Jaswanth Reddy
           </div>
         </div>
         <h1 className="scroll-m-20 text-3xl font-extrabold tracking-tight md:text-7xl text-white mt-1 md:mx-20">
@@ -64,7 +64,7 @@ export default function Hero() {
           </ul>
         </div>
         <div className="text-center w-full mt-7 md:mt-10 ">
-          <Button onClick={() => window.location.href = 'https://libyzxy0.com/Jan_Liby_Dela_Costa_Developer_Resume.pdf' } className="px-5 bg-white text-gray-900 text-md rounded-full mx-3 font-mono hover:bg-white hover:opacity-90 md:scale-150 md:mx-14">
+          <Button onClick={() => window.location.href = 'https://libyzxy0.com/Jan_Liby_Dela_Costa_Developer_Resume.pdf'} className="px-5 bg-white text-gray-900 text-md rounded-full mx-3 font-mono hover:bg-white hover:opacity-90 md:scale-150 md:mx-14">
             <IoDocumentTextOutline className="mr-1 h-4 w-4" />
             Resume
           </Button>
