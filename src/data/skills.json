@@ -24,28 +24,12 @@
     "icon": "logos:react"
   },
   {
-    "name": "Vue",
-    "icon": "logos:vue"
-  },
-  {
-    "name": "Nuxt",
-    "icon": "logos:nuxt-icon"
-  },
-  {
     "name": "Node.js",
     "icon": "skill-icons:nodejs-dark"
   },
   {
     "name": "MongoDB",
     "icon": "skill-icons:mongodb"
-  },
-  {
-    "name": "Firebase",
-    "icon": "logos:firebase"
-  },
-  {
-    "name": "Supabase",
-    "icon": "devicon:supabase"
   },
   {
     "name": "Tailwindcss",
@@ -64,10 +48,6 @@
     "icon": "skill-icons:vercel-dark"
   },
   {
-    "name": "Netlify",
-    "icon": "skill-icons:netlify-dark"
-  },
-  {
     "name": "Git",
     "icon": "devicon:git"
   },
@@ -82,9 +62,5 @@
   {
     "name": "VS Code",
     "icon": "skill-icons:vscode-dark"
-  },
-  {
-    "name": "Arduino",
-    "icon": "skill-icons:arduino"
   }
 ]

@@ -14,14 +14,14 @@ export default function Education() {
           <div className="h-1 w-14 rounded-full bg-gradient-to-r from-sky-200 to-blue-400 md:w-20 md:h-2"></div>
         </header>
         <div className="mx-6 pt-8 md:mx-10">
-          <TimelineItem title="Elementary">
-            Studied Grade 1-6 at Balighot Elementary School (115550)
+          <TimelineItem title="Primary & Secondary School">
+            Studied Grade 1-10 at Kendriya Vidyalaya (522005)
           </TimelineItem>
-          <TimelineItem title="Junior High School">
-            Studied Grade 7 at Florentina B. Degala NHS (302404)
+          <TimelineItem title="Higher Secondary School">
+            Studied Grade 11-12 at Bhashyam IIT JEE Junior College (522005)
           </TimelineItem>
-          <TimelineItem title="Junior High School">
-            Studied Grade 8-10 at Sto. Cristo National High School (307509)
+          <TimelineItem title="Under Graduation">
+            Final Year Computer Science & Engineering Student at Parul University (391760)
           </TimelineItem>
         </div>
       </section>
